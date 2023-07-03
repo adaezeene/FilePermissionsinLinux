@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-My task was to examine existing permissions on a file system. I needed to determine if the permissions matched the authorization that should be given. If they didn't match, I needed to modify the permissions to authorize the appropriate users and remove any unauthorized access.
+My task was to manage existing permissions on a file system. I needed to determine if the permissions matched the authorization that should be given. If they didn't match, I needed to modify the permissions to authorize the appropriate users and remove any unauthorized access.
 <br />
 
 
